@@ -12,5 +12,5 @@ Here is implemented:
 - postgres connection and management
 - file and post uploading
   
-P.S. Docker containerization is on its way!
+P.S. `React` frontend is on its way!
   
